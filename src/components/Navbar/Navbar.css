@@ -7,3 +7,38 @@
 
   padding: 1rem 2rem;
 }
+
+/***** Styles for navigation logo *****/
+
+.app__navbar-logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.app__navbar-logo img {
+  width: 150px;
+}
+
+/***** End Styles for navigation logo *****/
+
+/***** Styles for navigation links *****/
+
+.app__navbar-links {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.app__navbar-links li {
+  margin: 0 1rem;
+  cursor: pointer;
+}
+
+.app__navbar-links li:hover {
+  color: var(--color-grey);
+}
+
+/**** End Styles for navigation links *****/
