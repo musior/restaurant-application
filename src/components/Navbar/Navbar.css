@@ -69,6 +69,7 @@
 /***** End Styles for navigation login section *****/
 
 /***** Styles for small screen navigation *****/
+
 .app__navbar-smallscreen {
   display: none;
 }
@@ -94,6 +95,25 @@
   right: 20px;
 }
 
+.app__navbar-smallscreen_links {
+  list-style: none;
+}
+
+.app__navbar-smallscreen_links li {
+  margin: 2rem;
+  cursor: pointer;
+  color: var(--color-golden);
+  font-size: 2rem;
+  text-align: center;
+  font-family: var(--font-base);
+}
+
+.app__navbar-smallscreen_links li:hover {
+  color: var(--color-white);
+}
+
+/***** End Styles for small screen navigation *****/
+
 @media screen and (max-width: 1150px) {
   .app__navbar-links {
     display: none;
@@ -103,5 +123,3 @@
     display: flex;
   }
 }
-
-/***** End Styles for small screen navigation *****/
