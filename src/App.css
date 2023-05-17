@@ -1,3 +1,9 @@
+.flex__center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .p__opensans {
   font-family: var(--font-alt);
   color: var(--color-white);
