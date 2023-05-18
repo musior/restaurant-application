@@ -18,3 +18,17 @@
 }
 
 /***** End Styles for header info *****/
+
+/***** media queries *****/
+
+@media screen and (max-width: 1150px) {
+  .app__header-img {
+    margin: 5rem 0 0 0;
+  }
+
+  .app__header-img img {
+    width: 100%;
+  }
+}
+
+/***** End media queries *****/
