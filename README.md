@@ -1,7 +1,7 @@
 # Modern restaurant homepage.
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 > It is the homepage of a modern restaurant.
-> Live demo [_here_](https://strong-lily-81a7a1.netlify.app/). [![Netlify Status](https://api.netlify.com/api/v1/badges/4fdde8f4-6e3c-44fb-8737-06f069d56921/deploy-status)](https://app.netlify.com/sites/strong-lily-81a7a1/deploys)
+> Live demo [_here_](https://jazzy-hotteok-6ad5c1.netlify.app/). [![Netlify Status](https://api.netlify.com/api/v1/badges/b43dbdd2-bfc8-4ff4-bb0c-38359c52b479/deploy-status)](https://app.netlify.com/sites/jazzy-hotteok-6ad5c1/deploys)
 
 ## Table of Contents
 * [General Info](#general-information)
